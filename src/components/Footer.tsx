@@ -5,8 +5,8 @@ export default function Footerr() {
         <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
         <span className="block text-sm text-[#FFC26F] sm:text-center">
           © 2023{" "}
-          <a href="https://flowbite.com/" className="hover:underline">
-            Launam™
+          <a href="#" className="hover:underline">
+            Nouval
           </a>
           . All Rights Reserved.
         </span>
